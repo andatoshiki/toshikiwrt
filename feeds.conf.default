@@ -4,4 +4,4 @@ src-git-full routing https://git.openwrt.org/feed/routing.git
 src-git-full toshikiwrt https://github.com/andatoshiki/toshikiwrt-pkgs.git
 src-git-full telephony https://git.openwrt.org/feed/telephony.git
 #src-git-full video https://github.com/openwrt/video.git
-#src-git-full targets https://github.com/openwrt/targets.git
+
